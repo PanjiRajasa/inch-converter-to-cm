@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inches converter</string>
+
+<!--    background 1-->
+    <string name="background1">landscape background</string>
+
+<!--    For the convert button-->
+    <string name="button_convert">Convert</string>
+
+<!--    Text view if input is blank-->
+    <string name="textView_text_warning">Please enter a number</string>
+
+<!--    editTextInches-->
+    <string name="editTextInches_text">Enter Inches</string>
+
+<!--    centimeter textview-->
+    <string name="centimeter_textview">Result in Cm</string>
+</resources>
